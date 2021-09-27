@@ -1,2 +1,2 @@
-FROM mysql:5.6
+FROM gcr.io/ml-pipeline/mysql:8
 MAINTAINER zz<zhongzheng0813@163.com>
