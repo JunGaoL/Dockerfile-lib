@@ -1,2 +1,2 @@
-FROM gcr.io/ml-pipeline/mysql:8
-MAINTAINER zz<zhongzheng0813@163.com>
+FROM mysql:8
+MAINTAINER zz<jungaoa@sina.com>
